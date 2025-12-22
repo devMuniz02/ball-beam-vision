@@ -1,0 +1,10 @@
+resolution: [640, 480]
+frame_rate: 30
+exposure: 0
+brightness: 50
+contrast: 50
+saturation: 50
+hue: 0
+gain: 0
+white_balance: true
+auto_exposure: true
